@@ -1,0 +1,48 @@
+.main{
+    text-align: center;
+    background-image: url('http://polyformiran.com/wp-content/uploads/2014/03/background-contact-us.jpg');
+    height:100vh;
+    width:100%;
+    margin-top: 150px;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.main1{
+    text-align: center;
+    background: #001529 !important;
+    /* margin-top: 23px !important; */
+}
+p{
+    color: aliceblue !important;
+}
+
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.box1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.imag{
+    width:50px !important;
+    height:50px !important;
+    margin-top: 23px !important;
+}
+@media (max-width: 600px) {
+    .box{
+        display: flex;
+        flex-direction: column;
+        margin-top: 100px;
+    }
+    .box1{
+        display: flex;
+        flex-direction: column;
+        margin-top: 100px;
+    }
+}
+
+
+
+

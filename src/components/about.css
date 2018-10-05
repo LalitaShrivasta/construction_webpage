@@ -1,0 +1,17 @@
+.contain {
+  width: 700px !important;
+  margin: auto !important;
+  font-size: 20px !important;
+  font-family: cursive !important;
+}
+
+.bold {
+  font-weight: bold !important;
+}
+.about {
+  color: black !important;
+}
+.heading {
+  font-weight: bold !important;
+  margin-top:18px !important;
+}
